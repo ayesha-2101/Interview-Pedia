@@ -6,7 +6,7 @@ Student Experiences: Discover real-life stories and experiences from students wh
 
 Interview Resources: Access a curated collection of resources, including coding practice problems, algorithm explanations, and interview preparation tips. We aim to equip you with the knowledge and skills necessary to ace technical interviews.
 
-Tech Stack: HTML, CSS, JavaScript ans PHP: The InterviewPedia website is built using a combination of HTML, CSS, and JavaScript, making it accessible and interactive across various devices and browsers.
+Tech Stack: HTML, CSS, JavaScript and PHP: The InterviewPedia website is built using a combination of HTML, CSS, and JavaScript, making it accessible and interactive across various devices and browsers.
 Thank you for choosing InterviewPedia as your go-to resource for tech interview success! We're excited to be part of your journey.
 
 — The InterviewPedia Team
